@@ -135,3 +135,4 @@ help/
 # Other
 .DS_Store
 .idea/
+.vercel
